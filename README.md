@@ -1,13 +1,13 @@
-Sales Dashboard – Power BI
+# Sales Dashboard – Power BI
 
 
-# Overview
+## ♣ Overview
 
 This project is an interactive Sales Dashboard built using Power BI to analyze sales performance across multiple dimensions such as amount, profit, quantity, customers, categories, sub-categories, payment modes, time, and geography.
 
 The dashboard provides a quick executive summary as well as detailed insights through interactive visuals and slicers.
 
-# Key Objectives
+## 🔑 Key Objectives
 
 - Track overall sales performance
 
@@ -20,7 +20,7 @@ The dashboard provides a quick executive summary as well as detailed insights th
 - Enable interactive filtering for better decision-making
   
 
-# Dashboard Highlights
+## 🧨 Dashboard Highlights
 -  KPI Cards
 
 Sum of Amount – Total sales value
@@ -33,7 +33,7 @@ Sum of AOV – Average Order Value
 
 
 
-#  Visual Analysis
+## 🎨  Visual Analysis
 Visual	Description
 Sum of Amount by State	Identifies top-performing states
 Profit by Month	Shows monthly profit trends including losses
@@ -43,7 +43,7 @@ Amount by Customer Name	Customer-wise revenue contribution
 Quantity by Payment Mode	Preferred payment methods
 
 
-# Interactive Features
+## 🔗 Interactive Features
 
 - Quarter slicer (Q1–Q4)
 
@@ -56,7 +56,7 @@ Quantity by Payment Mode	Preferred payment methods
 
 
 
-# Tools & Technologies
+## ⚙ Tools & Technologies
 
 1. Power BI Desktop
 
@@ -68,59 +68,59 @@ Quantity by Payment Mode	Preferred payment methods
 
 
 
-# Dataset
+## 📑 Dataset
+Sales transactional data<br>
 
-- Sales transactional data
-
-Fields include:
-Order Date
-State
-Category & Sub-Category
-Customer Name
-Payment Mode
-Amount, Quantity, Profit
+-Fields include:
+-Order Date
+-State
+-Category & Sub-Category
+-Customer Name
+-Payment Mode
+-Amount, Quantity, Profit
 
 (Sample / practice data used for learning purposes)
 
 
 
- Project Structure
-- Sales-Dashboard-PowerBI
-SalesDashboard.pbix
-Details.csv
-Orders.csv
-README.md
+## 🔍 Project Structure
+Sales-Dashboard-PowerBI<br>
+-SalesDashboard.pbix
+-Details.csv
+-Orders.csv
+-README.md
 
 
 
 
-# How to Use
+## 📜 How to Use
 
-Download the .pbix file
+-Download the .pbix file
 
-Open it using Power BI Desktop (Windows)
+-Open it using Power BI Desktop (Windows)
 
-Use slicers and filters to explore insights
+-Use slicers and filters to explore insights
 
-Interact with visuals for detailed analysis
-
-
+-Interact with visuals for detailed analysis
 
 
-# Dashboard Preview
+
+
+## 🖼 Dashboard Preview
 
  Key Insights
 
-Certain months show negative profit, highlighting loss periods
+-Certain months show negative profit, highlighting loss periods
 
-A few sub-categories contribute most of the profit
+-A few sub-categories contribute most of the profit
 
-Limited customers generate high revenue concentration
+-Limited customers generate high revenue concentration
 
-Digital payment modes dominate transaction volume
+-Digital payment modes dominate transaction volume
 
 
 
-# Author
+## 👩‍🦱 Author
 
-Komal
+Komal<br>
+Data Analytics Learner | Aspiring Data Scientist
