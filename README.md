@@ -120,7 +120,3 @@ Sales-Dashboard-PowerBI<br>
 
 
 
-## 👩‍🦱 Author
-
-Komal<br>
-Data Analytics Learner | Aspiring Data Scientist
